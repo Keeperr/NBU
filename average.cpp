@@ -1,9 +1,3 @@
-/*
-    FacultyN: F74665
-    Author: Ivan Petrov
-    HW-set: 2
-*/
-
 #include <iostream>
 #include <stdio.h>
 
